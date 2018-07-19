@@ -1,0 +1,418 @@
+﻿Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Creating EventLog source Adeptek Service in log Application...
+Rolling back assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Restoring event log to previous state for source Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Creating EventLog source Adeptek Service in log Application...
+Rolling back assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Restoring event log to previous state for source Adeptek Service.
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Creating EventLog source Adeptek Service in log Application...
+Rolling back assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Restoring event log to previous state for source Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Creating EventLog source Adeptek Service in log Application...
+Rolling back assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Restoring event log to previous state for source Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Creating EventLog source Adeptek Service in log Application...
+Rolling back assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Restoring event log to previous state for source Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Attempt to stop service Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Attempt to stop service Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\AdeptekWindowsService.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Attempt to stop service Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Attempt to stop service Adeptek Service.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Creating EventLog source Adeptek Service in log Application...
+Rolling back assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Restoring event log to previous state for source Adeptek Service.
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
+Installing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Installing service Adeptek Service...
+Service Adeptek Service has been successfully installed.
+Creating EventLog source Adeptek Service in log Application...
+Committing assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Uninstalling assembly 'C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.InstallLog
+   assemblypath = C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Windows Service\AdeptekWindowsService\AdeptekWindowsService\bin\Release\adeptekwindowsservice.exe
+Removing EventLog source Adeptek Service.
+Service Adeptek Service is being removed from the system...
+Service Adeptek Service was successfully removed from the system.
